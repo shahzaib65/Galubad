@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GC Glubad</string>
+    <string name="Welcome">Welcome to</string>
+    <string name="started">Get Started</string>
+    <string name="combine_text">Welcome to GC Glubad</string>
+    <string name="Login">Login</string>
+    <string name="SignUp">SignUp</string>
+    <string name="term">Term of use</string>
+    <string name="Privacy">Privacy Policy</string>
+    <string name="role">Pick your Role</string>
+    <string name="teacher_text">I am a teacher</string>
+    <string name="student_text">I am a student</string>
+    <string name="sign_in_now">Sign In now</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="email">User Name772@gmail.com</string>
+    <string name="otp">We have sent an OTP to</string>
+    <string name="your_email">Your Email</string>
+    <string name="zero">0</string>
+    <string name="next">Next</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+    <string name="save">Save</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="link">Please enter your email to receive a link to create a new password via email</string>
+    <string name="enter_password">Please enter new password</string>
+    <string name="receive">Didn\'t Receive? Click here</string>
+    <string name="admin">Please check your Email Admin***.com continue to reset your password</string>
+    <string name="account">Please enter your information below in order to login your account</string>
+
+
+</resources>
